@@ -1,1 +1,4 @@
 Linux
+Windows 
+MacOS 
+Ubuntu 24.04
